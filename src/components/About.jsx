@@ -29,7 +29,7 @@ const About = () => {
                                     <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
                                 </svg>
                             </span>
-                            <h3 className="flex pl-10 items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+                            <h3 className="flex pl-10 items-center mb-1 text-lg font-semibold dark:text-white">
                                 Software Engineer 1&nbsp;&nbsp;&nbsp; {" "}
                                 <span className="bg-blue-100 text-blue-800 text-sm font-medium me-2 px-2.5 py-0.5 rounded dark:bg-blue-900 dark:text-blue-300 ms-3">
                                     Latest
@@ -55,7 +55,7 @@ const About = () => {
                                     <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
                                 </svg>
                             </span>
-                            <h3 className="mb-1 pl-10 text-lg font-semibold text-gray-900 dark:text-white">
+                            <h3 className="mb-1 pl-10 text-lg font-semibold  dark:text-white">
                                Graduate Trainee - Kodnest
                             </h3>
                             <time className="block pl-10 mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
